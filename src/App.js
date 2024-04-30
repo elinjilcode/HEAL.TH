@@ -23,6 +23,5 @@ function App() {
     </div>
   )
 }
-//john reg reg reg
-
+//john 
 export default App
