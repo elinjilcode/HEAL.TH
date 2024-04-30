@@ -12,7 +12,7 @@ const Home = () => {
         </div>
 
         <div className='texts'>
-          <h1>HEAL.TH</h1>
+          <h1>heyyy-jadamae</h1>
           <hr />
           <p>Join us in revolutionizing the way individuals engage with healthcare. 
             Take control of your health with heal.th today.
